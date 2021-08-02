@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PDM_2021_II_P3_INVESTIGACION3</string>
+    <string name="title_activity_shop_detail_host">Shop Detail Host Activity</string>
+    <string name="title_shop_list">Shops</string>
+    <string name="title_shop_detail">Shop Detail</string>
+</resources>

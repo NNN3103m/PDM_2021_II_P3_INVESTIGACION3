@@ -1,0 +1,3 @@
+rootProject.name = "PDM_2021_II_P3_INVESTIGACION3"
+include ':app'
+include ':shopkmmsharedmodule'
